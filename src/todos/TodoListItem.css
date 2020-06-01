@@ -1,0 +1,6 @@
+.complete {
+    border: solid 1px green;
+}
+.incomplete {
+    border: solid 1px crimson;
+}
